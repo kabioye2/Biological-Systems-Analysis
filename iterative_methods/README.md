@@ -1,6 +1,3 @@
-Iterative methods for solving linear algebraic equations
-
-Introduction
 Gauss elimination was used to find the solution to the algebraic system of equations manually.
 Once the solutions were found by hand, iterative methods were used in MATLAB to verify the
 solutions. The iterative methods used was Gradient, Gauss-Seidel, and Jacobi methods. A
@@ -28,9 +25,9 @@ their own benefit.
 
 Iterative methods for solving linear algebraic equations 2
 Introduction
-Part one uses different iterative solves to solve for three set of equations. Iterative methods are
+Part one uses different iterative solutions to solve for three sets of equations. Iterative methods are
 used when Gauss elimination can’t be used or less efficient. The iterative methods used were
-Gradient, Gauss-Seidel, and Jacobi method. Part two involves visualizing linesearch to display a
+Gradient, Gauss-Seidel, and Jacobi method. Part two involves visualizing linear search to display a
 2D section of the curve.
 
 Conclusion
