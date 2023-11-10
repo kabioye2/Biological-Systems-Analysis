@@ -1,4 +1,3 @@
-Iterative methods for solving linear algebraic equations 2
 Introduction
 Part one uses different iterative solves to solve for three set of equations. Iterative methods are
 used when Gauss elimination can’t be used or less efficient. The iterative methods used were
