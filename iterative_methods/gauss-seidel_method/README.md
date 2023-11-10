@@ -1,5 +1,3 @@
-Iterative methods for solving linear algebraic equations
-
 Introduction
 Gauss elimination was used to find the solution to the algebraic system of equations manually.
 Once the solutions were found by hand, iterative methods were used in MATLAB to verify the
